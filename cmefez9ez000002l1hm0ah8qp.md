@@ -3,6 +3,7 @@ title: "EX003----Microsoft Office 2024 下载安装教程 ，超详细教程（�
 datePublished: Sun Aug 17 2025 08:18:35 GMT+0000 (Coordinated Universal Time)
 cuid: cmefez9ez000002l1hm0ah8qp
 slug: ex003-microsoft-office-2024
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ylveRpZ8L1s/upload/ec2a26b428c0f78fa27839abd3db5f30.jpeg
 
 ---
 
